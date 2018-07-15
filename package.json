@@ -4,7 +4,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy": "npm run docs:build; push-dir --dir='docs/.vuepress/dist' --branch=production --cleanup"
+    "deploy": "npm run docs:build; push-dir --dir=docs/.vuepress/dist --branch=production --cleanup"
   },
   "dependencies": {
     "@babel/code-frame": {
