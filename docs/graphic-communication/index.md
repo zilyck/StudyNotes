@@ -73,3 +73,32 @@ A lighter tone is a 'tint' (a colour mixed with white).
 
 ### Shade
 Shade is a darker tone of a colour (a colour mixed with black).
+
+# DPT - Desktop Publishing
+
+## Desktop Publishing Tools
+
+### Cropping
+
+![Cropping example](./cropping.jpg)<br />
+Cropping is a tool which allows you to delete unwanted parts of an image. You can crop an image by pulling in the sides or by cropping around the outline of the shape as shown in the second cropped image.
+
+### Transparency
+
+![Transparency example](./transparent.png)
+When you make an image/text/block of colour etc. 'see-through' so that you can see anything positioned behind it.
+
+### Text Wrap
+
+![Text Wrap example](./text-wrap.jpg)
+When you alter text to wrap around an image or shape.
+
+### Drop Shadow
+
+![Drop Shadow](./drop-shadow.jpg)<br />
+When you make an image/text/block of colour etc. 'see-through' so that you can see anything positioned behind it.
+
+### Flow Text Along Path
+
+![Flow Text Along Path example](./flow-text-along-path.png)<br />
+This is when a line or shape is drawn and used as a path for text. You can create any shape and this can make for a more interesting design, drawing the reader in.
