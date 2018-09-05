@@ -42,7 +42,13 @@ module.exports = {
         ''
       ],
       '/german/': [
-        ''
+        '',
+        'computers',
+        'films',
+        'music',
+        'time-phrases',
+        'likes-dislikes',
+        'giving-reason'
       ],
       '/graphic-communication/': [
         ''

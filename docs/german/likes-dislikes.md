@@ -1,0 +1,13 @@
+---
+title: Likes and Dislikes
+---
+
+# Likes
+* Ich liebe... - I love
+* Ich mag... - I like...
+* Ich sehe gern... - I like watching...
+
+# Dislikes
+* Ich hasse... - I hate...
+* Ich sehe nicht gern... - I don't like watching
+* Ich mag _____ nicht - I don't like....
