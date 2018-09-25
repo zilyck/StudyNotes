@@ -48,7 +48,8 @@ module.exports = {
         'music',
         'time-phrases',
         'likes-dislikes',
-        'giving-reason'
+        'giving-reason',
+        'tv'
       ],
       '/graphic-communication/': [
         ''
