@@ -70,3 +70,22 @@ The United States of America is made up of 5 main groups:
 * The national identity and language is disappearing.
 * Emigration to the USA hurts the country that is left as many of the male population, workers and top intellectuals after leave.
 * Less skilled American citizens earn less money and have fewer job opportunities because they must compete with immigrants in the job market.
+
+# The American Reality: Social and Economical Inequalities
+
+## Housing
+Half of the money for American schools come from local taxes. In welthier areas, where property taxes are higher, there is more money for schools. These schools can afford better teachers and facilities. Poorer schools in ghettos or barries struggle to provide the basics.
+
+## Political Inequalities
+
+## Representation
+Representation is when someone speaks on your behalf. In Democratic contries we vote for representitives to speak on belhalf of us in Government. In order for representation to work, the people who are elected should:
+* Have been chosen by the majority of people
+* Should reflect the different types of people in the country.
+
+## Ethnic minorities in Politics
+* Some Hispanic people are illegal immigrants so can't stand for election. 
+* Ethnic minorities are less likly to be wealthy - election campaigns are massivly expensive
+* Ethnic minorities are less likly to vote so less likly to have votor support. 
+* - Lack of ethnic minorities elected leads to apathy(what's the point in voting)
+* - Votor registration is difficult in the US. - to register to vote you must go somewhere usually during business hours, then you must fill out a form, which can often be lengthly, which may include a criminal record check, depending on the state. Also deadlines to register to vote may vary in different states.

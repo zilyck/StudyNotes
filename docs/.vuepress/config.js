@@ -62,7 +62,8 @@ module.exports = {
         'scottish-democracy',
         'social-issues',
         'pressure-groups',
-        'usa'
+        'usa',
+        'media-influence'
       ],
     },
     serviceWorker: {
