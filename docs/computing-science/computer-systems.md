@@ -28,4 +28,14 @@ There are 64 pixels in total in the above image. Each pixel is stored using a si
 
 Bit depth is used to describe the number of bits used to store each pixel in an image.
 
+# Firewalls and Encryption
+
+## Firewalls
+
+The purpose of a Firewall is to prevent unauthorised access to a computer network.
+
+## Encryption
+
+Encryption keeps data safe by coding a message in a way that can't be read by humans.
+
 **Credit for Images: BBC Bitesize**
