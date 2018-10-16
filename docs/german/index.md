@@ -10,3 +10,4 @@ title: German
 * [Likes and Dislikes](likes-dislikes.html)
 * [Giving a reason](giving-reason.html)
 * [TV](tv.html)
+* [Lifestyle text](lifestyle-text.html)

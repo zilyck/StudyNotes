@@ -49,7 +49,8 @@ module.exports = {
         'time-phrases',
         'likes-dislikes',
         'giving-reason',
-        'tv'
+        'tv',
+        'lifestyle-text'
       ],
       '/graphic-communication/': [
         ''
