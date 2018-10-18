@@ -50,7 +50,11 @@ module.exports = {
         'likes-dislikes',
         'giving-reason',
         'tv',
-        'lifestyle-text'
+        'lifestyle-text',
+        'health',
+        'sports',
+        'days-week',
+        'with-whom'
       ],
       '/graphic-communication/': [
         ''

@@ -11,3 +11,7 @@ title: German
 * [Giving a reason](giving-reason.html)
 * [TV](tv.html)
 * [Lifestyle text](lifestyle-text.html)
+* [Health](health.html)
+* [Sports](sports.html)
+* [Days of the Week](days-week.html)
+* [With whom?](with-whom?)
